@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityService</string>
+    <string name="click_auto">辅助进行网站登录</string>
+</resources>
